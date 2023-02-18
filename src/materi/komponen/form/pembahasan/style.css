@@ -1,0 +1,50 @@
+.square {
+    background-color: rgb(75, 117, 162);
+    padding: 10px;
+    font-family: century gothic;
+    color: aliceblue;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.form-label {
+    color: white;
+    font-family: century gothic;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.form-text-input {
+    border-radius: 20px;
+    border: 0px;
+    width: 180px;
+    padding: 9px 20px;
+    font-size: 13px;
+    font-family: century gothic;
+}
+
+.form-button {
+    color: white;
+    border-radius: 20px;
+    padding: 10px 70px;
+    font-family: century gothic;
+    font-weight: bold;
+    font-size: 15px;
+    border: 0;
+    padding: '4px 8px';
+    margin-top: 30px;
+    background-color: rgb(129, 166, 206);
+    cursor: pointer;
+}
+
+.form-button:hover {
+    background-color: white;
+    color: black;
+}
+
+.App {
+    border-radius: 10px;
+    padding: 20px;
+    margin: 100px;
+}
